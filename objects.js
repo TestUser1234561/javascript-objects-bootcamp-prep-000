@@ -1,1 +1,1 @@
-let playlist = {}
+let playlist = {test : true}
